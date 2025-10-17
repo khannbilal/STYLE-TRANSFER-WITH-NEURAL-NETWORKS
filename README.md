@@ -89,6 +89,6 @@ The ControlNet-based synthetic generation pipeline effectively addressed class i
 2. Rombach, R. et al. (2022). High-Resolution Image Synthesis with Latent Diffusion Models. CVPR.
 3. Bergmann, P. et al. (2019). MVTec AD — A Comprehensive Real-World Dataset for Unsupervised Anomaly Detection.
 
-Closest Research Paper:
+# Closest Research Paper:
 > Zhang, L. et al. (2023). ControlNet: Adding Conditional Control to Text-to-Image Diffusion Models.
 > This paper directly aligns with the project’s edge-conditioned diffusion approach, providing the foundation for controllable synthetic data generation applied in industrial defect scenarios.
